@@ -1,2 +1,9 @@
 ||/pagead.js$domain=d3ward.github.io^
 ||/widget/ads.^
+||ad-center.line.me^
+||lap-click.tr.line.me^
+||lt-click.tr.line.me^
+||optout-api.tr.line.me^
+||sch.line.me^
+||tr.line.me^
+||obs.line-scdn.net^
