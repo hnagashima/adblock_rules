@@ -1,2 +1,2 @@
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
+||/pagead.js$domain=d3ward.github.io^
+||/widget/ads.^
